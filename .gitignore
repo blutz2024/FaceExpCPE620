@@ -1,2 +1,7 @@
 fer2013/
 manga/
+ckplus/
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+*.pt
