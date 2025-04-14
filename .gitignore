@@ -3,5 +3,6 @@ manga/
 ckplus/
 .ipynb_checkpoints/
 __pycache__/
+weights/
 *.pth
 *.pt
