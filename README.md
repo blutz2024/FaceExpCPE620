@@ -19,8 +19,8 @@ In the codebase, you need to download these datasets and put them into folders n
 ## Results
 
 ## Papers that inspired us
-- Keaton, M. R., Zaveri, R. J., & Doretto, G. (2023). Celltranspose: Few-shot domain adaptation for cellular instance segmentation. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 455-466).
-
 - Chen, X., Zheng, X., Sun, K., Liu, W., & Zhang, Y. (2023). Self-supervised vision transformer-based few-shot learning for facial expression recognition. Information Sciences, 634, 206-226.
+
+- Keaton, M. R., Zaveri, R. J., & Doretto, G. (2023). Celltranspose: Few-shot domain adaptation for cellular instance segmentation. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 455-466).
 
 - Khosla, P., Teterwak, P., Wang, C., Sarna, A., Tian, Y., Isola, P., ... & Krishnan, D. (2020). Supervised contrastive learning. Advances in neural information processing systems, 33, 18661-18673.
